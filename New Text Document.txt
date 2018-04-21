@@ -1,0 +1,23 @@
+Computer Vision
+
+Template Mactching with transparency
+https://stackoverflow.com/questions/35642497/python-opencv-cv2-matchtemplate-with-transparency
+
+
+Practice Challenges
+
+*Easy to view leetcode questions sorted by topics and solution is provided: 
+https://github.com/kamyu104/leetcode
+
+
+Security
+https://github.com/xapax/security
+
+Algorithms
+Visualizing Algorithms
+
+https://bost.ocks.org/mike/algorithms/
+
+Pathfinding algorithms visualized [OC]
+
+https://www.reddit.com/r/dataisbeautiful/comments/78of3s/pathfinding_algorithms_visualized_oc/
