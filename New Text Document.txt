@@ -21,3 +21,10 @@ https://bost.ocks.org/mike/algorithms/
 Pathfinding algorithms visualized [OC]
 
 https://www.reddit.com/r/dataisbeautiful/comments/78of3s/pathfinding_algorithms_visualized_oc/
+
+
+Top 100 Algorithms for Coding Interview
+https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/
+
+Algorithms
+https://www.geeksforgeeks.org/
